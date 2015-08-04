@@ -24,10 +24,10 @@ pod "CBKContacts"
 
 ## Author
 
-CBKContacts was started at [CircleBack, Inc.](http://www.circleback.com)
-Patrick Zearfoss, patrick.zearfoss@circleback.com
-Wim De Nood, wim.denood@circleback.com
-Mariano Abdala, mariano.abdala@circleback.com
+CBKContacts was created at [CircleBack, Inc.](http://www.circleback.com)
+- Patrick Zearfoss, patrick.zearfoss@circleback.com
+- Wim De Nood, wim.denood@circleback.com
+- Mariano Abdala, mariano.abdala@circleback.com
 
 ## License
 
