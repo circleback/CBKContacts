@@ -1,0 +1,6 @@
+framework module CBKContacts {
+  umbrella header "Pods-CBKContacts_Example-CBKContacts-umbrella.h"
+
+  export *
+  module * { export * }
+}

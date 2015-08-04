@@ -1,0 +1,17 @@
+PODS:
+  - CBKContacts (0.1.0)
+  - Kiwi (2.3.1)
+
+DEPENDENCIES:
+  - CBKContacts (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  CBKContacts:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CBKContacts: e4c9d1383b1d6c909adc90822f5051ba3861100a
+  Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
+
+COCOAPODS: 0.37.2
